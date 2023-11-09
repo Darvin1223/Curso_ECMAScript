@@ -1,0 +1,24 @@
+{
+  "name": "curso_ecmascript",
+  "version": "1.0.0",
+  "description": "this is my course of ecmascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darvin1223/Curso_ECMAScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "course"
+  ],
+  "author": "Darvin Rodriguez <darvin.rod10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darvin1223/Curso_ECMAScript/issues"
+  },
+  "homepage": "https://github.com/Darvin1223/Curso_ECMAScript#readme"
+}
