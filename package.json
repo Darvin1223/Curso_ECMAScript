@@ -17,8 +17,12 @@
   ],
   "author": "Darvin Rodriguez <darvin.rod10@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Darvin1223/Curso_ECMAScript/issues"
   },
-  "homepage": "https://github.com/Darvin1223/Curso_ECMAScript#readme"
+  "homepage": "https://github.com/Darvin1223/Curso_ECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
